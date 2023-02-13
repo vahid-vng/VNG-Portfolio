@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Poppins Bold";
+  src: url("../fonts/Poppins-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins Black";
+  src: url("../fonts/Poppins-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IRANSans";
+  src: url("../fonts/IRANSans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IRANSans Black";
+  src: url("../fonts/IRANSans_Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IRANSans Medium";
+  src: url("../fonts/IRANSans_Medium.ttf") format("truetype");
+}
